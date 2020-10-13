@@ -1,1 +1,1 @@
-# goetc
+# goetc for go programming.
